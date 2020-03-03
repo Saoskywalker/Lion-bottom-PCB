@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=CTP_RET Pin=P2-3
-Removed Pin From Net: NetName=CTP_SCL Pin=P2-4
-Removed Pin From Net: NetName=CTP_SDA Pin=P2-5
-Removed Pin From Net: NetName=CTP_INT Pin=P2-6
-Added Pin To Net: NetName=CTP_INT Pin=P2-3
-Added Pin To Net: NetName=CTP_SDA Pin=P2-4
-Added Pin To Net: NetName=CTP_SCL Pin=P2-5
-Added Pin To Net: NetName=CTP_RET Pin=P2-6

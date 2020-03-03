@@ -1,5 +1,0 @@
-Added Component: Designator=C65(0603)
-Added Pin To Net: NetName=3V3 Pin=C65-1
-Added Pin To Net: NetName=GND Pin=C65-2
-Added Pin To Net: NetName=3V3 Pin=TF CARD-4
-Added Member To Class: ClassName=bottom board Member=Component C65 100nF

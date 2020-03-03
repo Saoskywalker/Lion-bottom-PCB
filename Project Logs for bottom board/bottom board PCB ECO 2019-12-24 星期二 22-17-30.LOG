@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=HPR Pin=P3-2
-Removed Pin From Net: NetName=HPL Pin=P3-3
-Added Pin To Net: NetName=HPL Pin=P3-2
-Added Pin To Net: NetName=HPR Pin=P3-3

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=3V3 Pin=C65-1
-Removed Pin From Net: NetName=3V3 Pin=TF CARD-4
-Added Pin To Net: NetName=SD_VCC Pin=C65-1
-Added Pin To Net: NetName=SD_VCC Pin=P4-4
-Added Pin To Net: NetName=SD_VCC Pin=TF CARD-4
-Added Net: Name=SD_VCC

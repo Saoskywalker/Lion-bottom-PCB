@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=SDC0_D2 Pin=P4-1
-Added Pin To Net: NetName=SDC0_D3 Pin=P4-2
-Added Pin To Net: NetName=SDC0_CMD Pin=P4-3
-Added Pin To Net: NetName=SDC0_CLK Pin=P4-5
-Added Pin To Net: NetName=SDC0_D0 Pin=P4-7
-Added Pin To Net: NetName=SDC0_D1 Pin=P4-8
