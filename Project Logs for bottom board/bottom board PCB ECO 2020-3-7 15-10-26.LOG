@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=CVBS Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=CTP_INT Pin=P2-3
+Removed Pin From Net: NetName=CTP_SDA Pin=P2-4
+Removed Pin From Net: NetName=CTP_SCL Pin=P2-5
+Removed Pin From Net: NetName=CTP_RET Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=HPL Pin=P3-2
+Removed Pin From Net: NetName=HPR Pin=P3-3
+Removed Pin From Net: NetName=MICIN Pin=P3-4
+Change Component Footprint: Designator=P3 Old Footprint=4PIN1.27 New Footprint=BHS3.5-2PIN
+Change Component Footprint: Designator=P2 Old Footprint=6PIN1.27 New Footprint=12PIN1.27
+Change Component Footprint: Designator=P5 Old Footprint=9PIN1.27 New Footprint=11PIN1.27
+Change Component Comment : Designator=P2 Old Comment=Header 6 New Comment=Header 12
+Change Component Comment : Designator=J10 Old Comment=Header 7 New Comment=CTP
+Change Component Comment : Designator=P5 Old Comment=Header 9 New Comment=Header 11
+Change Component Comment : Designator=P3 Old Comment=MM New Comment=Header 2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=HPL Pin=P2-2
+Added Pin To Net: NetName=HPR Pin=P2-3
+Added Pin To Net: NetName=MICIN Pin=P2-4
+Added Pin To Net: NetName=CVBS Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=CTP_INT Pin=P2-9
+Added Pin To Net: NetName=CTP_SDA Pin=P2-10
+Added Pin To Net: NetName=CTP_SCL Pin=P2-11
+Added Pin To Net: NetName=CTP_RET Pin=P2-12
+Added Pin To Net: NetName=5V Pin=P5-10
+Added Pin To Net: NetName=GND Pin=P5-11
+Added Pin To Net: NetName=HPCOMFB Pin=P2-6
+Added Net: Name=HPCOMFB
+Added Pin To Net: NetName=HPCOM Pin=P2-5
+Added Net: Name=HPCOM
+Added Pin To Net: NetName=LEDA Pin=P3-1
+Added Net: Name=LEDA
+Added Pin To Net: NetName=LEDK Pin=P3-2
+Added Pin To Net: NetName=LEDK Pin=P3-2
+Added Pin To Net: NetName=LEDK Pin=P3-2
+Added Net: Name=LEDK
