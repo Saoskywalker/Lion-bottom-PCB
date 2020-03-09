@@ -1,0 +1,4 @@
+Added Component: Designator=P3(BHS3.5-2PIN)
+Added Pin To Net: NetName=LEDA Pin=P3-1
+Added Pin To Net: NetName=LEDK Pin=P3-2
+Added Member To Class: ClassName=bottom board Member=Component P3 Header 2

@@ -1,0 +1,4 @@
+Added Component: Designator=J12(2PIN1.27)
+Added Pin To Net: NetName=LEDA Pin=J12-1
+Added Pin To Net: NetName=LEDK Pin=J12-2
+Added Member To Class: ClassName=bottom board Member=Component J12 
